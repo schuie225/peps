@@ -1,6 +1,6 @@
 PEP: 1
 Title: PEP Purpose and Guidelines
-Author: Barry Warsaw, Jeremy Hylton, David Goodger, Nick Coghlan
+Author: Barry Warsaw, Jack schuback, Jeremy Hylton, David Goodger, Nick Coghlan
 Status: Active
 Type: Process
 Content-Type: text/x-rst
